@@ -1,6 +1,6 @@
 ### Explanation of the Entity Relationship Diagram
 
-### Depatments table
+### Departments table
 For this table, department_number is used as a primary key since each department has a unique dept_no. The table is linked to dep_emp table via dept_no and dept_manager table via dept_no. 
 
 ### Department Employee table 
